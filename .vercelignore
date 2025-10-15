@@ -1,5 +1,5 @@
 node_modules
 .vercel
 .git
-src/data/problems.json
+# src/data/problems.json
 *.log
